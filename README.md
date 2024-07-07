@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Machine Learning with Flutter
 - 👯 I’m looking to collaborate on Flutter and Machine Learning
-- 🤔 I’m looking for help with training a model in tensor flow light
+- 🤔 I’m looking for help with training a model in tensorflow lite
 - 🎯 Goal: solve the problems of society through the IT industry
 - 💬 Ask me about ...
 - 📫 How to reach me: nirmalbhuva2001@gmail.com
